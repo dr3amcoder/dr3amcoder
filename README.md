@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌹 I am Janna (She/her), a career switcher who is dreaming to work in the Cybersecurity field in the ✨ future ✨.<br>
+🌹 I am Janna, a career switcher who is dreaming to work in the Cybersecurity field in the ✨ future ✨.<br>
 👩🏻‍💻 An ex-makers student and is now working as a Software Engineer Apprentice. <br>
 🎨 I enjoy writing code and seeing them come alive and be displayed on the webpage. <br>
 
