@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌹 I am Janna, a career switcher who is dreaming to work in the Cybersecurity field in the ✨ future ✨.<br>
-👩🏻‍💻 An ex-makers student and is now working as a Software Engineer Apprentice. <br>
+🌹 I am Janna, a career switcher who is dreaming to work in the Cybersecurity field in the ✨ <strong><em>future</em></strong> ✨.<br>
+👩🏻‍💻 An ex-makers student and is now working as a Junior Software Engineer Apprentice. <br>
 🎨 I enjoy writing code and seeing them come alive and be displayed on the webpage. <br>
 
 <img align="center" alt="happy girl coding" width="350" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
